@@ -10,7 +10,7 @@ function Example() {
 
                         <div className="card-body"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium delectus magnam quae quod, quos? A consequuntur inventore iusto labore neque rerum similique. Corporis cum
                             eligendi maxime officiis, qui voluptatum?</p></div>
-                        <div className="btn"><button>Click me</button></div>
+                        <div className="btn"><button className="bnt btn-primary">Click me</button></div>
                     </div>
                 </div>
             </div>
